@@ -1,0 +1,31 @@
+{
+  "cars":
+  [{"producer": "Audi", "nationality": "Germania", "models": [
+    {"model": "RS3", "firstYear": 2010, "lastYear": 2023},
+    {"model": "RS6", "firstYear": 2002, "lastYear": 2023}
+    ]},
+  {"producer": "Porsche", "nationality": "Germania", "models": [
+    {"model": "911", "firstYear": 2012, "lastYear": 2018}
+    ]},
+  {"producer": "Volkswagen", "nationality": "Germania", "models": [
+    {"model": "Polo", "firstYear": 1975, "lastYear": 2023}
+  ]},
+  {"producer": "Seat", "nationality": "Spagna", "models": [
+    {"model": "Ibiza", "firstYear": 1984, "lastYear": 2023}
+    ]},
+  {"producer": "Nissan", "nationality": "Giappone", "models": [
+    {"model": "GTR", "firstYear": 1969, "lastYear": 2021},
+    {"model": "Silvia", "firstYear": 1964, "lastYear": 2002}
+    ]},
+  {"producer": "Toyota", "nationality": "Giappone", "models": [
+    {"model": "Supra", "firstYear": 1978, "lastYear": 2023},
+    {"model": "Yaris GR", "firstYear": 2020, "lastYear": 2023}
+    ]},
+  {"producer": "Peugeot", "nationality": "Francia", "models": [
+    {"model": "308", "firstYear": 2007, "lastYear": 2023}
+    ]},
+  {"producer": "BMW", "nationality": "Germania", "models": [
+    {"model": "330i", "firstYear": 2001, "lastYear": 2023}
+    ]}
+  ]
+}

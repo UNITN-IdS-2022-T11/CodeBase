@@ -1,0 +1,1 @@
+This is the Codebase for the project "CarMeeTiN", a project for the course "Ingegneria del Software" (Software Engineering) at the University of Trento.

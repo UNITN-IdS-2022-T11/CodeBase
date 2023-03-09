@@ -1,0 +1,14 @@
+{
+  "extends": ["next/core-web-vitals", "plugin:prettier/recommended", "plugin:import/recommended"],
+  "parser": "@typescript-eslint/parser",
+  "plugins": ["chakra-ui", "prettier"],
+  "rules": {
+    "prettier/prettier": "error",
+    "chakra-ui/props-order": "error",
+    "chakra-ui/props-shorthand": "error",
+    "chakra-ui/require-specific-component": "error",
+    "react-hooks/rules-of-hooks": "off",
+    "react/no-unescaped-entities": "off",
+    "react-hooks/exhaustive-deps": "off"
+  }
+}
